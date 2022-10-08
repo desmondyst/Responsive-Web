@@ -10,7 +10,7 @@ const AvatarContainer = () => {
             className="Avatar-container"
             display="flex"
             justifyContent="center"
-            sx={{ paddingRight: { xs: "15px", lg: "0px" } }}
+            sx={{ paddingRight: { xs: "15px", sm: "0px" } }}
         >
             <img src={GovTechLogo} alt={"GovTechLogo"} />
         </Box>
