@@ -4,7 +4,7 @@ import { Paper } from "@mui/material";
 
 import BottomInformationContainer from "./CardContainers/BottomInformationContainer";
 import TopInformationContainer from "./CardContainers/TopInformationContainer";
-import "./card.css";
+import "./Card.css";
 
 const card = () => {
     return (

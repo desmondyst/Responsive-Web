@@ -1,7 +1,8 @@
 import React from "react";
 
 import { Grid, Box } from "@mui/material";
-import Card from "./card.js";
+
+import Card from "./Card.js";
 
 const HomePage = () => {
     return (

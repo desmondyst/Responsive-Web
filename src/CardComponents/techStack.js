@@ -7,7 +7,7 @@ import { Paper, Typography } from "@mui/material";
  *
  */
 
-const techStack = ({ techStackName }) => {
+const TechStack = ({ techStackName }) => {
     return (
         <Paper
             elevation={0}
@@ -30,4 +30,4 @@ const techStack = ({ techStackName }) => {
     );
 };
 
-export default techStack;
+export default TechStack;

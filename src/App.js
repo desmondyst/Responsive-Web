@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import HomePage from "./homePage";
+import HomePage from "./HomePage";
 
 // Uses default breakpoints by MUI5 for responsiveness
 
