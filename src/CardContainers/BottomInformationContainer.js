@@ -2,7 +2,7 @@ import React from "react";
 
 import { Box } from "@mui/material";
 
-import TechStack from "../CardComponents/ts.js";
+import TechStack from "../CardComponents/TechStack.js";
 
 const BottomInformationContainer = () => {
     return (
