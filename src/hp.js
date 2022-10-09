@@ -2,7 +2,7 @@ import React from "react";
 
 import { Grid, Box } from "@mui/material";
 
-import Card from "./Card.js";
+import Card from "./c.js";
 
 const HomePage = () => {
     return (
