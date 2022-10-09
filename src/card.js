@@ -10,7 +10,7 @@ const card = () => {
     return (
         <div className="card">
             <Paper
-                onClick={console.log("placeholder for link")}
+                onClick={() => console.log("placeholder for link")}
                 sx={{
                     backgroundColor: "white",
                     borderRadius: "0.5rem",
