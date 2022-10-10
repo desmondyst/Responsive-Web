@@ -10,8 +10,8 @@ const HomePage = () => {
             className="container-job-listings"
             sx={{
                 marginTop: "5%",
-                marginLeft: { xs: "3%", lg: "22%" },
-                marginRight: { xs: "3%", lg: "22%" },
+                marginLeft: { xs: "3%", lg: "7%", xl: "22%" },
+                marginRight: { xs: "3%", lg: "7%", xl: "22%" },
             }}
         >
             <Grid container spacing={2.5}>
